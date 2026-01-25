@@ -1,5 +1,5 @@
 # Bendy_Royale  #UnityEngine
-A fan shooter game based on <<Bendy>>.
+A fan shooter game based on Bendy.
 Programming language: C#
 
 📺 Watch Video:
