@@ -57,3 +57,10 @@
 3. Build for your platform (Windows recommended) via File → Build Settings.
 
 4. Run the executable from the build folder.</code></pre>
+
+<hr>
+<p align="center">
+  A fan project created for Bendy enthusiasts. <br>
+  All characters belong to the BENDY.
+</p>
+
