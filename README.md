@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform">
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
 </p>
 
 <p align="center">
@@ -20,7 +19,7 @@
 
 ---
 
-<h2 align="center">📸 Screenshots</h2>
+<h2>📸 Screenshots</h2>
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; max-width: 1200px; margin: 0 auto;">
   <img src="https://github.com/user-attachments/assets/f582ea7f-eb23-46c5-8c11-8dbf0be6cffc" style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
@@ -36,41 +35,17 @@
   <img src="https://github.com/user-attachments/assets/a14b1af4-fab9-4f1c-8bee-167640b298a5" style="width:100%; border-radius:8px; box-shadow:0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
 </div>
 
-<h2 align="center">📖 About</h2>
+<h2>📖 About</h2>
 
-<p align="center">
+<p>
   Step into the ink‑soaked shoes of a survivor in <b>Bendy_Royale</b>, a fast‑paced shooter inspired by the Bendy universe.<br>
   Battle through corrupted levels, face off against iconic enemies, and uncover the secrets of the ink demon.<br>
   This is a non‑commercial fan project made by enthusiasts for the community.
 </p>
 
-<h2 align="center">🎮 Features</h2>
+<h2>⚙️ Installation</h2>
 
-<ul style="display:inline-block; text-align:left; max-width:800px;">
-  <li>🔫 <b>Intense shooter gameplay</b> — use a variety of weapons to survive waves of ink‑creatures.</li>
-  <li>🎨 <b>Faithful Bendy aesthetic</b> — 1930s cartoon horror with modern 3D graphics.</li>
-  <li>🗺️ <b>Multiple levels</b> — explore reimagined locations from the Bendy universe.</li>
-  <li>👾 <b>Boss battles</b> — face challenging enemies, including the Ink Demon himself.</li>
-  <li>⚙️ <b>Built with Unity</b> — smooth performance and moddable structure.</li>
-</ul>
-
-<h2 align="center">🎯 Controls</h2>
-
-<div align="center">
-  <table style="border-collapse: collapse; width: 60%;">
-    <tr><th style="background:#f2f2f2;">Action</th><th style="background:#f2f2f2;">Key</th></tr>
-    <tr><td>Move</td><td>WASD</td></tr>
-    <tr><td>Shoot</td><td>Left Mouse Button</td></tr>
-    <tr><td>Aim</td><td>Right Mouse Button</td></tr>
-    <tr><td>Reload</td><td>R</td></tr>
-    <tr><td>Switch weapon</td><td>1‑4 / Scroll</td></tr>
-    <tr><td>Pause</td><td>Esc</td></tr>
-  </table>
-</div>
-
-<h2 align="center">⚙️ Installation</h2>
-
-<p align="center">
+<p>
   <i>This game is currently in development/demo stage. To try it out:</i>
 </p>
 
@@ -82,13 +57,3 @@
 3. Build for your platform (Windows recommended) via File → Build Settings.
 
 4. Run the executable from the build folder.</code></pre>
-
-<p align="center">
-  <i>Alternatively, check the <a href="https://github.com/yourusername/bendy_royale/releases">Releases</a> page for pre‑built executables.</i>
-</p>
-
-<hr>
-<p align="center">
-  A fan project created for Bendy enthusiasts. <br>
-  All original characters and settings belong to <b>Joey Drew Studios</b>.
-</p>
