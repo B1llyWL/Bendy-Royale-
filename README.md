@@ -61,6 +61,6 @@
 <hr>
 <p align="center">
   A fan project created for Bendy enthusiasts. <br>
-  All characters belong to the BENDY.
+  All characters belong to the Joey Drew Studios Inc.
 </p>
 
